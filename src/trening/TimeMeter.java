@@ -3,7 +3,7 @@ package trening;
 import java.time.LocalDate;
 import java.time.Period;
 
-public class YourTimeMeter {
+public class TimeMeter {
 
     public static void main(String[] args) {
 
